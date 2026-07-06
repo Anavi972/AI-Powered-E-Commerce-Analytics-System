@@ -56,37 +56,3 @@ This demonstrates how Generative AI can enhance traditional business analytics b
 ## 🎯 Business Impact
 
 This solution enables businesses to monitor sales performance, identify regional growth opportunities, analyze customer behavior, and generate AI-driven strategic recommendations, supporting faster and more effective decision-making.
-
----
-
-## 📷 Dashboard Preview
-
-### Executive Dashboard
-
-*(Insert dashboard screenshot here)*
-
-### Customer Analysis
-
-*(Insert customer dashboard screenshot here)*
-
-### Product Analysis
-
-*(Insert product dashboard screenshot here)*
-
-### Order Analysis
-
-*(Insert order dashboard screenshot here)*
-
----
-
-## 🚀 Skills Demonstrated
-
-- Business Intelligence
-- Data Analytics
-- SQL Querying
-- Data Visualization
-- ETL & Data Cleaning
-- Power BI Dashboard Development
-- Prompt Engineering
-- Generative AI Integration
-- KPI Analysis
