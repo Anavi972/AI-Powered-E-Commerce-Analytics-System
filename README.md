@@ -1,97 +1,92 @@
-# AI-Powered E-Commerce Analytics System
+# 🛒 AI-Powered E-Commerce Analytics System
 
-## Project Overview
-
-This is an end-to-end E-Commerce Analytics project built using Excel, SQL, Python, and Power BI.
-
-The project analyzes:
-
-* Orders Dataset
-* Customers Dataset
-* Payments Dataset
-* Products Dataset
+This project develops an **AI-powered e-commerce analytics solution** that analyzes customer, order, product, and payment data using **Python, SQL, and Power BI**, while leveraging **Google Gemini** to automatically generate business insights and strategic recommendations from key performance indicators.
 
 ---
 
-# Tools Used
+## 📊 Overview
 
-* Excel
-* PostgreSQL
-* Python
-* Pandas
-* Matplotlib
-* Power BI
-* GitHub
+Businesses generate vast amounts of transactional data every day, making it challenging to extract meaningful insights efficiently. This project combines Business Intelligence and Generative AI to transform raw e-commerce data into interactive dashboards and AI-generated executive summaries, enabling faster and more informed business decisions.
 
 ---
 
-# Features
+## 🔍 Key Features
 
-* Order Analysis
-* Customer Insights
-* Payment Analytics
-* Product Category Analysis
-* Interactive Dashboards
-* Business Intelligence Reporting
-
----
-
-# SQL Analysis
-
-* Total Orders
-* Customer Distribution
-* Payment Analysis
-* Product Analytics
+- 📈 End-to-end analysis of **99K+ orders** and **₹16M+ revenue**
+- 👥 Customer segmentation and regional analysis
+- 📦 Product category and sales performance analysis
+- 💰 Revenue and order trend visualization
+- 📊 Interactive Power BI dashboards
+- 🤖 AI-generated business insights and recommendations using **Google Gemini**
 
 ---
 
-# Python Analysis
+## 📌 Dashboard Highlights
 
-* Data Cleaning
-* Pandas Analysis
-* Data Visualization
-
----
-
-# Power BI Dashboards
-
-## Orders Dashboard
-
-![Orders Dashboard](images/orders_dashboard.png)
+- 🛍️ Orders Analyzed: **99,441**
+- 💰 Revenue Processed: **₹16.01M**
+- 👥 Customers Analyzed: **99K+**
+- 📦 Products Analyzed: **32K+**
 
 ---
 
-## Customers Dashboard
+## ⚙️ Tech Stack
 
-![Customers Dashboard](images/dashboard customer analysis.png)
-
----
-
-## Payments Dashboard
-
-![Payments Dashboard](images/dashboard payment analysis .png)
-
----
-
-# Project Structure
-
-```text
-AI-Powered-Ecommerce-Analytics-System/
-│
-├── datasets/
-├── excel/
-├── python/
-├── sql/
-├── powerbi/
-├── images/
-└── README.md
-```
+- Python
+- SQL
+- Power BI
+- Pandas
+- Google Gemini API
+- Data Visualization
 
 ---
 
-# Business Insights
+## 🤖 AI Business Insights
 
-* Most orders are successfully delivered.
-* São Paulo has the highest customer concentration.
-* Credit cards are the most used payment method.
-* Monthly order trends help understand seasonal demand.
+The project includes an **AI Business Insights Generator** that utilizes the **Google Gemini API** to analyze business KPIs and automatically generate:
+
+- Executive Summary
+- Key Business Insights
+- Actionable Recommendations
+
+This demonstrates how Generative AI can enhance traditional business analytics by converting raw metrics into meaningful, decision-ready insights.
+
+---
+
+## 🎯 Business Impact
+
+This solution enables businesses to monitor sales performance, identify regional growth opportunities, analyze customer behavior, and generate AI-driven strategic recommendations, supporting faster and more effective decision-making.
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Dashboard
+
+*(Insert dashboard screenshot here)*
+
+### Customer Analysis
+
+*(Insert customer dashboard screenshot here)*
+
+### Product Analysis
+
+*(Insert product dashboard screenshot here)*
+
+### Order Analysis
+
+*(Insert order dashboard screenshot here)*
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Business Intelligence
+- Data Analytics
+- SQL Querying
+- Data Visualization
+- ETL & Data Cleaning
+- Power BI Dashboard Development
+- Prompt Engineering
+- Generative AI Integration
+- KPI Analysis
