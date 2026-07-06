@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load dataset
-orders = pd.read_csv("C:/Users/jagru/OneDrive/文件/AI-Powered E-Commerce sales and Customer intelligence syatem/datasets/olist_orders_dataset.csv")
+orders = pd.read_csv(""C:\Users\anavi\OneDrive\ai-powered-ecommerce-analytics-system-main\datasets\olist_orders_dataset.csv"")
 
 # Display first 5 rows
 print("FIRST 5 ROWS:")
