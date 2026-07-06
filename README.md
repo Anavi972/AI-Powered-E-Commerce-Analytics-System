@@ -95,12 +95,3 @@ AI-Powered-Ecommerce-Analytics-System/
 * São Paulo has the highest customer concentration.
 * Credit cards are the most used payment method.
 * Monthly order trends help understand seasonal demand.
-
----
-
-# Author
-
-## Jagruthi Uppala
-
-B.Tech CSE (AI & ML)
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
