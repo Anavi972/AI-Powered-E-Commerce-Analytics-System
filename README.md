@@ -10,6 +10,14 @@ Businesses generate vast amounts of transactional data every day, making it chal
 
 ---
 
+## 📂 Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, which contains approximately **100,000 orders** placed between 2016 and 2018. The dataset includes customer, order, product, payment, and logistics information, making it well-suited for business intelligence and analytics applications.
+
+**Dataset Source:** :contentReference[oaicite:0]{index=0}
+
+---
+
 ## 🔍 Key Features
 
 - 📈 End-to-end analysis of **99K+ orders** and **₹16M+ revenue**
